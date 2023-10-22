@@ -4,7 +4,7 @@ Welcome to my Django Portfolio! This portfolio showcases my ongoing work and pro
 
 ## Projects
 
-### 1. Django CRM Web App
+### 1. [Django CRM Web App](https://github.com/maarfelipe/crm_web_app)
 
 - **Project Status**: In Development
 - **Date**: October 9, 2023
