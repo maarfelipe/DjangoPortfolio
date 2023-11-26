@@ -10,12 +10,6 @@ Welcome to my Django Portfolio! This portfolio showcases my ongoing work and pro
 - **Date**: October 9, 2023
 - **Description**: This project focuses on building a Customer Relationship Management (CRM) application using Django. It aims to provide a user-friendly platform for managing customer interactions, sales leads, and more.
 
-### 2. REST API School
-
-- **Project Status**: In Development
-- **Date**: October 9, 2023
-- **Description**: The REST API School project is another ongoing project within my Django Portfolio. It involves the development of a RESTful API for a school management system. The API will allow for easy management of students, courses, teachers, and more.
-
 ```
 Stay tuned for updates, as I will be adding more projects to this portfolio in the future!
 ```
